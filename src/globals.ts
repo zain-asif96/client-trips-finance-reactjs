@@ -1,0 +1,18 @@
+export const PATHS = {
+  home: '/',
+  BNFT: '/BNFTCalendar',
+  BrowseMap: '/BrowseM',
+  FinalPurchase: '/FinalPurchase',
+  CreateBooking: '/create-booking',
+  PropertyListing: '/property-listing',
+  PropertyDetailPage: '/property-detail',
+  CreateBNFT: '/create-bnft',
+  CreateProperty: '/create-property',
+  Faqs: '/faqs',
+  Charities: '/charities',
+  ListingReview: '/listing-review',
+  ListingDispute: '/listing-dispute',
+  Inbox: '/inbox',
+  BrowserMarket: '/browse-market',
+  Profile: '/profile',
+};
